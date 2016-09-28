@@ -1,0 +1,946 @@
+Duty id,Vehicle Id,Event Type,Departure Time,Arrival Time,Origin Stop Id,Origin Stop Name,Destination Stop Id,Destination Stop Name
+,1-101,depot_pull_out,04:34:00,05:05:00,99999,Depot - Welham Facility,77,Georgian Mall Sears Entrance
+,1-101,service_trip,05:05:00,05:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-101,service_trip,05:25:00,06:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-101,service_trip,06:05:00,06:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-101,service_trip,06:45:00,07:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-101,service_trip,07:05:00,07:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-101,service_trip,07:25:00,08:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-101,service_trip,08:05:00,08:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-101,service_trip,08:45:00,09:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-101,service_trip,09:05:00,09:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-101,service_trip,09:25:00,10:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-101,service_trip,10:05:00,10:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-101,service_trip,10:45:00,11:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-101,service_trip,11:05:00,11:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-101,service_trip,11:25:00,12:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-101,service_trip,12:05:00,12:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-101,service_trip,12:45:00,13:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-101,service_trip,13:05:00,13:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-101,service_trip,13:25:00,14:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-101,service_trip,14:05:00,14:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-101,service_trip,14:45:00,15:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-101,service_trip,15:05:00,15:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-101,service_trip,15:25:00,16:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-101,service_trip,16:05:00,16:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-101,service_trip,16:45:00,17:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-101,service_trip,17:05:00,17:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-101,service_trip,17:25:00,18:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-101,service_trip,18:05:00,18:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-101,service_trip,18:45:00,19:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-101,service_trip,19:05:00,19:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-101,service_trip,19:25:00,20:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-101,service_trip,20:05:00,20:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-101,service_trip,20:45:00,21:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-101,service_trip,21:05:00,21:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-101,service_trip,21:25:00,22:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-101,service_trip,22:05:00,22:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-101,service_trip,22:45:00,23:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-101,service_trip,23:05:00,23:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-101,service_trip,23:25:00,24:03:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-101,depot_pull_in,24:03:00,24:12:00,733,Bryne at Caplan,99999,Depot - Welham Facility
+,1-104,depot_pull_out,05:16:00,05:35:00,99999,Depot - Welham Facility,733,Bryne at Caplan
+,1-104,service_trip,05:35:00,06:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-104,service_trip,06:15:00,06:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-104,service_trip,06:35:00,06:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-104,service_trip,06:55:00,07:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-104,service_trip,07:35:00,08:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-104,service_trip,08:15:00,08:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-104,service_trip,08:35:00,08:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-104,service_trip,08:55:00,09:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-104,service_trip,09:35:00,10:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-104,service_trip,10:15:00,10:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-104,service_trip,10:35:00,10:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-104,service_trip,10:55:00,11:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-104,service_trip,11:35:00,12:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-104,service_trip,12:15:00,12:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-104,service_trip,12:35:00,12:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-104,service_trip,12:55:00,13:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-104,service_trip,13:35:00,14:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-104,service_trip,14:15:00,14:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-104,service_trip,14:35:00,14:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-104,service_trip,14:55:00,15:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-104,service_trip,15:35:00,16:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-104,service_trip,16:15:00,16:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-104,service_trip,16:35:00,16:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-104,service_trip,16:55:00,17:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-104,service_trip,17:35:00,18:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-104,service_trip,18:15:00,18:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-104,service_trip,18:35:00,18:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-104,service_trip,18:55:00,19:31:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-104,depot_pull_in,19:31:00,19:40:00,733,Bryne at Caplan,99999,Depot - Welham Facility
+,1-105,depot_pull_out,05:04:00,05:35:00,99999,Depot - Welham Facility,77,Georgian Mall Sears Entrance
+,1-105,service_trip,05:35:00,05:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-105,service_trip,05:55:00,06:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-105,service_trip,06:35:00,07:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-105,service_trip,07:15:00,07:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-105,service_trip,07:35:00,07:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-105,service_trip,07:55:00,08:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-105,service_trip,08:35:00,09:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-105,service_trip,09:15:00,09:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-105,service_trip,09:35:00,09:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-105,service_trip,09:55:00,10:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-105,service_trip,10:35:00,11:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-105,service_trip,11:15:00,11:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-105,service_trip,11:35:00,11:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-105,service_trip,11:55:00,12:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-105,service_trip,12:35:00,13:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-105,service_trip,13:15:00,13:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-105,service_trip,13:35:00,13:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-105,service_trip,13:55:00,14:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-105,service_trip,14:35:00,15:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-105,service_trip,15:15:00,15:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-105,service_trip,15:35:00,15:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-105,service_trip,15:55:00,16:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-105,service_trip,16:35:00,17:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-105,service_trip,17:15:00,17:35:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-105,service_trip,17:35:00,17:55:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-105,service_trip,17:55:00,18:35:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-105,service_trip,18:35:00,19:15:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-105,service_trip,19:15:00,19:33:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-105,depot_pull_in,19:33:00,19:54:00,77,Georgian Mall Sears Entrance,99999,Depot - Welham Facility
+,1-118,depot_pull_out,05:34:00,06:05:00,99999,Depot - Welham Facility,77,Georgian Mall Sears Entrance
+,1-118,service_trip,06:05:00,06:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-118,service_trip,06:25:00,07:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-118,service_trip,07:05:00,07:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-118,service_trip,07:45:00,08:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-118,service_trip,08:05:00,08:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-118,service_trip,08:25:00,09:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-118,service_trip,09:05:00,09:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-118,service_trip,09:45:00,10:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-118,service_trip,10:05:00,10:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-118,service_trip,10:25:00,11:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-118,service_trip,11:05:00,11:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-118,service_trip,11:45:00,12:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-118,service_trip,12:05:00,12:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-118,service_trip,12:25:00,13:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-118,service_trip,13:05:00,13:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-118,service_trip,13:45:00,14:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-118,service_trip,14:05:00,14:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-118,service_trip,14:25:00,15:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-118,service_trip,15:05:00,15:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-118,service_trip,15:45:00,16:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-118,service_trip,16:05:00,16:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-118,service_trip,16:25:00,17:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-118,service_trip,17:05:00,17:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-118,service_trip,17:45:00,18:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-118,service_trip,18:05:00,18:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-118,service_trip,18:25:00,19:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-118,service_trip,19:05:00,19:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-118,service_trip,19:45:00,20:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-118,service_trip,20:05:00,20:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-118,service_trip,20:25:00,21:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-118,service_trip,21:05:00,21:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-118,service_trip,21:45:00,22:05:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-118,service_trip,22:05:00,22:25:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,1-118,service_trip,22:25:00,23:05:00,1,Downtown Barrie Terminal,733,Bryne at Caplan
+,1-118,service_trip,23:05:00,23:45:00,733,Bryne at Caplan,1,Downtown Barrie Terminal
+,1-118,service_trip,23:45:00,24:01:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,1-118,depot_pull_in,24:01:00,24:24:00,77,Georgian Mall Sears Entrance,99999,Depot - Welham Facility
+,2-116,depot_pull_out,05:44:00,06:00:00,99999,Depot - Welham Facility,777,Park Place
+,2-116,service_trip,06:00:00,06:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,06:30:00,07:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,07:00:00,07:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,07:30:00,08:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,08:00:00,08:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,08:30:00,09:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,09:00:00,09:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,09:30:00,10:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,10:00:00,10:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,10:30:00,11:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,11:00:00,11:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,11:30:00,12:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,12:00:00,12:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,12:30:00,13:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,13:00:00,13:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,13:30:00,14:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,14:00:00,14:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,14:30:00,15:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,15:00:00,15:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,15:30:00,16:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,16:00:00,16:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,16:30:00,17:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,17:00:00,17:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,17:30:00,18:00:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,service_trip,18:00:00,18:30:00,777,Park Place,1,Downtown Barrie Terminal
+,2-116,service_trip,18:30:00,18:57:00,1,Downtown Barrie Terminal,777,Park Place
+,2-116,depot_pull_in,18:57:00,19:03:00,777,Park Place,99999,Depot - Welham Facility
+,2-121,depot_pull_out,05:35:00,06:00:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,2-121,service_trip,06:00:00,06:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,06:30:00,07:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,07:00:00,07:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,07:30:00,08:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,08:00:00,08:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,08:30:00,09:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,09:00:00,09:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,09:30:00,10:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,10:00:00,10:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,10:30:00,11:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,11:00:00,11:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,11:30:00,12:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,12:00:00,12:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,12:30:00,13:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,13:00:00,13:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,13:30:00,14:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,14:00:00,14:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,14:30:00,15:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,15:00:00,15:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,15:30:00,16:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,16:00:00,16:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,16:30:00,17:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,17:00:00,17:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,17:30:00,18:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,18:00:00,18:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,18:30:00,19:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,19:00:00,19:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,19:30:00,20:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,20:00:00,20:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,20:30:00,21:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,21:00:00,21:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,21:30:00,22:00:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,service_trip,22:00:00,22:30:00,1,Downtown Barrie Terminal,777,Park Place
+,2-121,service_trip,22:30:00,22:57:00,777,Park Place,1,Downtown Barrie Terminal
+,2-121,depot_pull_in,22:57:00,23:12:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,3-124,depot_pull_out,05:44:00,06:17:00,99999,Depot - Welham Facility,612,Royal Victoria Hospital
+,3-124,service_trip,06:17:00,06:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-124,service_trip,06:45:00,07:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-124,service_trip,07:17:00,07:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-124,service_trip,07:50:00,08:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-124,service_trip,08:17:00,08:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-124,service_trip,08:45:00,09:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-124,service_trip,09:17:00,09:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-124,service_trip,09:50:00,10:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-124,service_trip,10:17:00,10:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-124,service_trip,10:45:00,11:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-124,service_trip,11:17:00,11:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-124,service_trip,11:50:00,12:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-124,service_trip,12:17:00,12:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-124,service_trip,12:45:00,13:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-124,service_trip,13:17:00,13:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-124,service_trip,13:50:00,14:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-124,service_trip,14:17:00,14:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-124,service_trip,14:45:00,15:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-124,service_trip,15:17:00,15:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-124,service_trip,15:50:00,16:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-124,service_trip,16:17:00,16:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-124,service_trip,16:45:00,17:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-124,service_trip,17:17:00,17:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-124,service_trip,17:50:00,18:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-124,service_trip,18:17:00,18:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-124,service_trip,18:45:00,19:15:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-124,depot_pull_in,19:15:00,19:21:00,940,Painswick Park,99999,Depot - Welham Facility
+,3-126,depot_pull_out,06:01:00,06:17:00,99999,Depot - Welham Facility,940,Painswick Park
+,3-126,service_trip,06:17:00,06:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-126,service_trip,06:50:00,07:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-126,service_trip,07:17:00,07:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-126,service_trip,07:45:00,08:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-126,service_trip,08:17:00,08:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-126,service_trip,08:50:00,09:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-126,service_trip,09:17:00,09:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-126,service_trip,09:45:00,10:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-126,service_trip,10:17:00,10:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-126,service_trip,10:50:00,11:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-126,service_trip,11:17:00,11:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-126,service_trip,11:45:00,12:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-126,service_trip,12:17:00,12:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-126,service_trip,12:50:00,13:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-126,service_trip,13:17:00,13:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-126,service_trip,13:45:00,14:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-126,service_trip,14:17:00,14:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-126,service_trip,14:50:00,15:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-126,service_trip,15:17:00,15:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-126,service_trip,15:45:00,16:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-126,service_trip,16:17:00,16:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-126,service_trip,16:50:00,17:17:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-126,service_trip,17:17:00,17:45:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-126,service_trip,17:45:00,18:17:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-126,service_trip,18:17:00,18:50:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-126,service_trip,18:50:00,19:13:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-126,depot_pull_in,19:13:00,19:36:00,612,Royal Victoria Hospital,99999,Depot - Welham Facility
+,3-135,depot_pull_out,06:14:00,06:47:00,99999,Depot - Welham Facility,612,Royal Victoria Hospital
+,3-135,service_trip,06:47:00,07:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-135,service_trip,07:15:00,07:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-135,service_trip,07:47:00,08:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-135,service_trip,08:20:00,08:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-135,service_trip,08:47:00,09:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-135,service_trip,09:15:00,09:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-135,service_trip,09:47:00,10:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-135,service_trip,10:20:00,10:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-135,service_trip,10:47:00,11:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-135,service_trip,11:15:00,11:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-135,service_trip,11:47:00,12:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-135,service_trip,12:20:00,12:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-135,service_trip,12:47:00,13:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-135,service_trip,13:15:00,13:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-135,service_trip,13:47:00,14:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-135,service_trip,14:20:00,14:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-135,service_trip,14:47:00,15:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-135,service_trip,15:15:00,15:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-135,service_trip,15:47:00,16:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-135,service_trip,16:20:00,16:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-135,service_trip,16:47:00,17:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-135,service_trip,17:15:00,17:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-135,service_trip,17:47:00,18:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-135,service_trip,18:20:00,18:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-135,service_trip,18:47:00,19:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-135,service_trip,19:15:00,19:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-135,service_trip,19:47:00,20:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-135,service_trip,20:20:00,20:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-135,service_trip,20:47:00,21:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-135,service_trip,21:15:00,21:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-135,service_trip,21:47:00,22:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-135,service_trip,22:20:00,22:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-135,service_trip,22:47:00,23:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-135,service_trip,23:15:00,23:45:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-135,depot_pull_in,23:45:00,23:51:00,940,Painswick Park,99999,Depot - Welham Facility
+,3-136,depot_pull_out,06:31:00,06:47:00,99999,Depot - Welham Facility,940,Painswick Park
+,3-136,service_trip,06:47:00,07:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-136,service_trip,07:20:00,07:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-136,service_trip,07:47:00,08:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-136,service_trip,08:15:00,08:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-136,service_trip,08:47:00,09:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-136,service_trip,09:20:00,09:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-136,service_trip,09:47:00,10:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-136,service_trip,10:15:00,10:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-136,service_trip,10:47:00,11:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-136,service_trip,11:20:00,11:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-136,service_trip,11:47:00,12:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-136,service_trip,12:15:00,12:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-136,service_trip,12:47:00,13:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-136,service_trip,13:20:00,13:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-136,service_trip,13:47:00,14:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-136,service_trip,14:15:00,14:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-136,service_trip,14:47:00,15:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-136,service_trip,15:20:00,15:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-136,service_trip,15:47:00,16:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-136,service_trip,16:15:00,16:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-136,service_trip,16:47:00,17:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-136,service_trip,17:20:00,17:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-136,service_trip,17:47:00,18:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-136,service_trip,18:15:00,18:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-136,service_trip,18:47:00,19:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-136,service_trip,19:20:00,19:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-136,service_trip,19:47:00,20:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-136,service_trip,20:15:00,20:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-136,service_trip,20:47:00,21:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-136,service_trip,21:20:00,21:47:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-136,service_trip,21:47:00,22:15:00,612,Royal Victoria Hospital,1,Downtown Barrie Terminal
+,3-136,service_trip,22:15:00,22:47:00,1,Downtown Barrie Terminal,940,Painswick Park
+,3-136,service_trip,22:47:00,23:20:00,940,Painswick Park,1,Downtown Barrie Terminal
+,3-136,service_trip,23:20:00,23:43:00,1,Downtown Barrie Terminal,612,Royal Victoria Hospital
+,3-136,depot_pull_in,23:43:00,24:06:00,612,Royal Victoria Hospital,99999,Depot - Welham Facility
+,4-107,depot_pull_out,05:36:00,05:55:00,99999,Depot - Welham Facility,725,Barrie South GO Station
+,4-107,service_trip,05:55:00,06:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-107,service_trip,06:30:00,06:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-107,service_trip,06:55:00,07:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-107,service_trip,07:20:00,07:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-107,service_trip,07:55:00,08:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-107,service_trip,08:30:00,08:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-107,service_trip,08:55:00,09:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-107,service_trip,09:20:00,09:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-107,service_trip,09:55:00,10:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-107,service_trip,10:30:00,10:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-107,service_trip,10:55:00,11:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-107,service_trip,11:20:00,11:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-107,service_trip,11:55:00,12:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-107,service_trip,12:30:00,12:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-107,service_trip,12:55:00,13:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-107,service_trip,13:20:00,13:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-107,service_trip,13:55:00,14:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-107,service_trip,14:30:00,14:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-107,service_trip,14:55:00,15:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-107,service_trip,15:20:00,15:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-107,service_trip,15:55:00,16:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-107,service_trip,16:30:00,16:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-107,service_trip,16:55:00,17:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-107,service_trip,17:20:00,17:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-107,service_trip,17:55:00,18:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-107,service_trip,18:30:00,18:50:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-107,depot_pull_in,18:50:00,19:11:00,77,Georgian Mall Sears Entrance,99999,Depot - Welham Facility
+,4-109,depot_pull_out,05:24:00,05:55:00,99999,Depot - Welham Facility,77,Georgian Mall Sears Entrance
+,4-109,service_trip,05:55:00,06:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-109,service_trip,06:20:00,06:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-109,service_trip,06:55:00,07:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-109,service_trip,07:30:00,07:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-109,service_trip,07:55:00,08:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-109,service_trip,08:20:00,08:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-109,service_trip,08:55:00,09:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-109,service_trip,09:30:00,09:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-109,service_trip,09:55:00,10:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-109,service_trip,10:20:00,10:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-109,service_trip,10:55:00,11:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-109,service_trip,11:30:00,11:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-109,service_trip,11:55:00,12:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-109,service_trip,12:20:00,12:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-109,service_trip,12:55:00,13:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-109,service_trip,13:30:00,13:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-109,service_trip,13:55:00,14:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-109,service_trip,14:20:00,14:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-109,service_trip,14:55:00,15:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-109,service_trip,15:30:00,15:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-109,service_trip,15:55:00,16:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-109,service_trip,16:20:00,16:55:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-109,service_trip,16:55:00,17:30:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-109,service_trip,17:30:00,17:55:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-109,service_trip,17:55:00,18:20:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-109,service_trip,18:20:00,18:53:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-109,depot_pull_in,18:53:00,19:02:00,725,Barrie South GO Station,99999,Depot - Welham Facility
+,4-122,depot_pull_out,05:38:00,05:56:00,99999,Depot - Welham Facility,732,Allandale Waterfront Station
+,4-122,service_trip,05:58:00,06:25:00,732,Allandale Waterfront Station,725,Barrie South GO Station
+,4-122,service_trip,06:25:00,07:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-122,service_trip,07:00:00,07:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-122,service_trip,07:25:00,07:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-122,service_trip,07:50:00,08:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-122,service_trip,08:25:00,09:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-122,service_trip,09:00:00,09:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-122,service_trip,09:25:00,09:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-122,service_trip,09:50:00,10:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-122,service_trip,10:25:00,11:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-122,service_trip,11:00:00,11:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-122,service_trip,11:25:00,11:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-122,service_trip,11:50:00,12:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-122,service_trip,12:25:00,13:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-122,service_trip,13:00:00,13:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-122,service_trip,13:25:00,13:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-122,service_trip,13:50:00,14:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-122,service_trip,14:25:00,15:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-122,service_trip,15:00:00,15:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-122,service_trip,15:25:00,15:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-122,service_trip,15:50:00,16:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-122,service_trip,16:25:00,17:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-122,service_trip,17:00:00,17:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-122,service_trip,17:25:00,17:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-122,service_trip,17:50:00,18:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-122,service_trip,18:25:00,19:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-122,service_trip,19:00:00,19:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-122,service_trip,19:25:00,19:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-122,service_trip,19:50:00,20:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-122,service_trip,20:25:00,21:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-122,service_trip,21:00:00,21:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-122,service_trip,21:25:00,21:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-122,service_trip,21:50:00,22:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-122,service_trip,22:25:00,23:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-122,service_trip,23:00:00,23:20:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-122,depot_pull_in,23:20:00,23:41:00,77,Georgian Mall Sears Entrance,99999,Depot - Welham Facility
+,4-127,depot_pull_out,05:54:00,06:25:00,99999,Depot - Welham Facility,77,Georgian Mall Sears Entrance
+,4-127,service_trip,06:25:00,06:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-127,service_trip,06:50:00,07:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-127,service_trip,07:25:00,08:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-127,service_trip,08:00:00,08:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-127,service_trip,08:25:00,08:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-127,service_trip,08:50:00,09:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-127,service_trip,09:25:00,10:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-127,service_trip,10:00:00,10:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-127,service_trip,10:25:00,10:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-127,service_trip,10:50:00,11:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-127,service_trip,11:25:00,12:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-127,service_trip,12:00:00,12:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-127,service_trip,12:25:00,12:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-127,service_trip,12:50:00,13:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-127,service_trip,13:25:00,14:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-127,service_trip,14:00:00,14:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-127,service_trip,14:25:00,14:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-127,service_trip,14:50:00,15:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-127,service_trip,15:25:00,16:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-127,service_trip,16:00:00,16:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-127,service_trip,16:25:00,16:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-127,service_trip,16:50:00,17:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-127,service_trip,17:25:00,18:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-127,service_trip,18:00:00,18:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-127,service_trip,18:25:00,18:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-127,service_trip,18:50:00,19:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-127,service_trip,19:25:00,20:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-127,service_trip,20:00:00,20:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-127,service_trip,20:25:00,20:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-127,service_trip,20:50:00,21:25:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-127,service_trip,21:25:00,22:00:00,725,Barrie South GO Station,1,Downtown Barrie Terminal
+,4-127,service_trip,22:00:00,22:25:00,1,Downtown Barrie Terminal,77,Georgian Mall Sears Entrance
+,4-127,service_trip,22:25:00,22:50:00,77,Georgian Mall Sears Entrance,1,Downtown Barrie Terminal
+,4-127,service_trip,22:50:00,23:23:00,1,Downtown Barrie Terminal,725,Barrie South GO Station
+,4-127,depot_pull_in,23:23:00,23:32:00,725,Barrie South GO Station,99999,Depot - Welham Facility
+,5-110,depot_pull_out,05:17:00,05:42:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,5-110,service_trip,05:42:00,06:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,06:00:00,06:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,06:15:00,06:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,06:30:00,06:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,06:45:00,07:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,07:00:00,07:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,07:15:00,07:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,07:30:00,07:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,07:45:00,08:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,08:00:00,08:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,08:15:00,08:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,08:30:00,08:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,08:45:00,09:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,09:00:00,09:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,09:15:00,09:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,09:30:00,09:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,09:45:00,10:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,10:00:00,10:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,10:15:00,10:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,10:30:00,10:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,10:45:00,11:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,11:00:00,11:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,11:15:00,11:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,11:30:00,11:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,11:45:00,12:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,12:00:00,12:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,12:15:00,12:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,12:30:00,12:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,12:45:00,13:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,13:00:00,13:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,13:15:00,13:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,13:30:00,13:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,13:45:00,14:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,14:00:00,14:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,14:15:00,14:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,14:30:00,14:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,14:45:00,15:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,15:00:00,15:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,15:15:00,15:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,15:30:00,15:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,15:45:00,16:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,16:00:00,16:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,16:15:00,16:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,16:30:00,16:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,16:45:00,17:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,17:00:00,17:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,17:15:00,17:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,17:30:00,17:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,17:45:00,18:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,18:00:00,18:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,18:15:00,18:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,18:30:00,18:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,18:45:00,19:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,19:00:00,19:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,19:15:00,19:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,19:30:00,19:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,19:45:00,20:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,20:00:00,20:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,20:15:00,20:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,20:30:00,20:45:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,service_trip,20:45:00,21:00:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-110,service_trip,21:00:00,21:15:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-110,service_trip,21:15:00,21:30:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-110,service_trip,21:30:00,21:42:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-110,depot_pull_in,21:55:00,22:10:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,5-113,depot_pull_out,05:19:00,05:44:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,5-113,service_trip,05:44:00,06:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,06:00:00,06:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,06:15:00,06:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,06:30:00,06:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,06:45:00,07:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,07:00:00,07:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,07:15:00,07:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,07:30:00,07:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,07:45:00,08:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,08:00:00,08:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,08:15:00,08:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,08:30:00,08:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,08:45:00,09:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,09:00:00,09:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,09:15:00,09:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,09:30:00,09:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,09:45:00,10:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,10:00:00,10:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,10:15:00,10:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,10:30:00,10:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,10:45:00,11:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,11:00:00,11:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,11:15:00,11:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,11:30:00,11:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,11:45:00,12:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,12:00:00,12:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,12:15:00,12:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,12:30:00,12:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,12:45:00,13:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,13:00:00,13:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,13:15:00,13:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,13:30:00,13:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,13:45:00,14:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,14:00:00,14:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,14:15:00,14:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,14:30:00,14:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,14:45:00,15:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,15:00:00,15:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,15:15:00,15:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,15:30:00,15:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,15:45:00,16:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,16:00:00,16:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,16:15:00,16:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,16:30:00,16:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,16:45:00,17:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,17:00:00,17:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,17:15:00,17:30:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,service_trip,17:30:00,17:45:00,627,Sproule at Kraus,1,Downtown Barrie Terminal
+,5-113,service_trip,17:45:00,18:00:00,1,Downtown Barrie Terminal,908,Penetanguishene Road
+,5-113,service_trip,18:00:00,18:15:00,908,Penetanguishene Road,1,Downtown Barrie Terminal
+,5-113,service_trip,18:15:00,18:29:00,1,Downtown Barrie Terminal,627,Sproule at Kraus
+,5-113,depot_pull_in,18:29:00,18:49:00,627,Sproule at Kraus,99999,Depot - Welham Facility
+,6-112,depot_pull_out,05:20:00,05:45:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,6-112,service_trip,05:45:00,06:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,06:45:00,07:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,07:45:00,08:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,08:45:00,09:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,09:45:00,10:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,10:45:00,11:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,11:45:00,12:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,12:45:00,13:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,13:45:00,14:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,14:45:00,15:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,15:45:00,16:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,16:45:00,17:45:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,service_trip,17:45:00,18:42:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-112,depot_pull_in,18:42:00,18:57:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,6-123,depot_pull_out,05:35:00,06:00:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,6-123,service_trip,06:00:00,07:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,07:00:00,08:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,08:00:00,09:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,09:00:00,10:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,10:00:00,11:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,11:00:00,12:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,12:00:00,13:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,13:00:00,14:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,14:00:00,15:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,15:00:00,16:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,16:00:00,17:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,17:00:00,18:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,18:00:00,19:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,19:00:00,20:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,20:00:00,21:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,21:00:00,22:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,22:00:00,23:00:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,service_trip,23:00:00,23:57:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-123,depot_pull_in,23:57:00,24:12:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,6-129,depot_pull_out,05:50:00,06:15:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,6-129,service_trip,06:15:00,07:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,07:15:00,08:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,08:15:00,09:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,09:15:00,10:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,10:15:00,11:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,11:15:00,12:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,12:15:00,13:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,13:15:00,14:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,14:15:00,15:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,15:15:00,16:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,16:15:00,17:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,17:15:00,18:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,18:15:00,19:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,19:15:00,20:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,20:15:00,21:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,21:15:00,22:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,22:15:00,23:15:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,service_trip,23:15:00,24:12:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-129,depot_pull_in,24:12:00,24:27:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,6-132,depot_pull_out,06:05:00,06:30:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,6-132,service_trip,06:30:00,07:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,07:30:00,08:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,08:30:00,09:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,09:30:00,10:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,10:30:00,11:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,11:30:00,12:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,12:30:00,13:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,13:30:00,14:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,14:30:00,15:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,15:30:00,16:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,16:30:00,17:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,17:30:00,18:30:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,service_trip,18:30:00,19:27:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,6-132,depot_pull_in,19:27:00,19:42:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,7-102,depot_pull_out,05:06:00,05:30:00,99999,Depot - Welham Facility,198,112 Commerce Park Drive
+,7-102,service_trip,05:30:00,06:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-102,service_trip,06:15:00,06:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-102,service_trip,06:30:00,06:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-102,service_trip,06:45:00,07:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-102,service_trip,07:30:00,08:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-102,service_trip,08:15:00,08:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-102,service_trip,08:30:00,08:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-102,service_trip,08:45:00,09:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-102,service_trip,09:30:00,10:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-102,service_trip,10:15:00,10:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-102,service_trip,10:30:00,10:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-102,service_trip,10:45:00,11:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-102,service_trip,11:30:00,12:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-102,service_trip,12:15:00,12:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-102,service_trip,12:30:00,12:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-102,service_trip,12:45:00,13:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-102,service_trip,13:30:00,14:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-102,service_trip,14:15:00,14:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-102,service_trip,14:30:00,14:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-102,service_trip,14:45:00,15:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-102,service_trip,15:30:00,16:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-102,service_trip,16:15:00,16:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-102,service_trip,16:30:00,16:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-102,service_trip,16:45:00,17:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-102,service_trip,17:30:00,18:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-102,service_trip,18:15:00,18:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-102,service_trip,18:30:00,18:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-102,service_trip,18:45:00,19:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-102,service_trip,19:30:00,20:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-102,service_trip,20:15:00,20:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-102,service_trip,20:30:00,20:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-102,service_trip,20:45:00,21:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-102,service_trip,21:30:00,22:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-102,service_trip,22:15:00,22:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-102,service_trip,22:30:00,22:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-102,service_trip,22:45:00,23:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-102,service_trip,23:30:00,24:12:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-102,depot_pull_in,24:12:00,24:27:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,7-108,depot_pull_out,05:36:00,06:00:00,99999,Depot - Welham Facility,198,112 Commerce Park Drive
+,7-108,service_trip,06:00:00,06:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-108,service_trip,06:45:00,07:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-108,service_trip,07:00:00,07:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-108,service_trip,07:15:00,08:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-108,service_trip,08:00:00,08:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-108,service_trip,08:45:00,09:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-108,service_trip,09:00:00,09:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-108,service_trip,09:15:00,10:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-108,service_trip,10:00:00,10:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-108,service_trip,10:45:00,11:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-108,service_trip,11:00:00,11:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-108,service_trip,11:15:00,12:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-108,service_trip,12:00:00,12:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-108,service_trip,12:45:00,13:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-108,service_trip,13:00:00,13:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-108,service_trip,13:15:00,14:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-108,service_trip,14:00:00,14:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-108,service_trip,14:45:00,15:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-108,service_trip,15:00:00,15:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-108,service_trip,15:15:00,16:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-108,service_trip,16:00:00,16:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-108,service_trip,16:45:00,17:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-108,service_trip,17:00:00,17:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-108,service_trip,17:15:00,18:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-108,service_trip,18:00:00,18:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-108,service_trip,18:45:00,18:58:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-108,depot_pull_in,19:00:00,19:23:00,251,Rose Street,99999,Depot - Welham Facility
+,7-111,depot_pull_out,05:27:00,06:00:00,99999,Depot - Welham Facility,251,Rose Street
+,7-111,service_trip,06:00:00,06:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-111,service_trip,06:15:00,07:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-111,service_trip,07:00:00,07:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-111,service_trip,07:45:00,08:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-111,service_trip,08:00:00,08:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-111,service_trip,08:15:00,09:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-111,service_trip,09:00:00,09:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-111,service_trip,09:45:00,10:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-111,service_trip,10:00:00,10:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-111,service_trip,10:15:00,11:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-111,service_trip,11:00:00,11:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-111,service_trip,11:45:00,12:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-111,service_trip,12:00:00,12:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-111,service_trip,12:15:00,13:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-111,service_trip,13:00:00,13:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-111,service_trip,13:45:00,14:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-111,service_trip,14:00:00,14:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-111,service_trip,14:15:00,15:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-111,service_trip,15:00:00,15:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-111,service_trip,15:45:00,16:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-111,service_trip,16:00:00,16:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-111,service_trip,16:15:00,17:00:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-111,service_trip,17:00:00,17:45:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-111,service_trip,17:45:00,18:00:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-111,service_trip,18:00:00,18:15:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-111,service_trip,18:15:00,18:58:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-111,depot_pull_in,19:00:00,19:15:00,198,112 Commerce Park Drive,99999,Depot - Welham Facility
+,7-128,depot_pull_out,06:06:00,06:30:00,99999,Depot - Welham Facility,198,112 Commerce Park Drive
+,7-128,service_trip,06:30:00,07:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-128,service_trip,07:15:00,07:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-128,service_trip,07:30:00,07:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-128,service_trip,07:45:00,08:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-128,service_trip,08:30:00,09:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-128,service_trip,09:15:00,09:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-128,service_trip,09:30:00,09:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-128,service_trip,09:45:00,10:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-128,service_trip,10:30:00,11:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-128,service_trip,11:15:00,11:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-128,service_trip,11:30:00,11:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-128,service_trip,11:45:00,12:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-128,service_trip,12:30:00,13:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-128,service_trip,13:15:00,13:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-128,service_trip,13:30:00,13:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-128,service_trip,13:45:00,14:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-128,service_trip,14:30:00,15:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-128,service_trip,15:15:00,15:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-128,service_trip,15:30:00,15:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-128,service_trip,15:45:00,16:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-128,service_trip,16:30:00,17:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-128,service_trip,17:15:00,17:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-128,service_trip,17:30:00,17:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-128,service_trip,17:45:00,18:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-128,service_trip,18:30:00,19:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-128,service_trip,19:15:00,19:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-128,service_trip,19:30:00,19:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-128,service_trip,19:45:00,20:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-128,service_trip,20:30:00,21:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-128,service_trip,21:15:00,21:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-128,service_trip,21:30:00,21:45:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-128,service_trip,21:45:00,22:30:00,1,Downtown Barrie Terminal,198,112 Commerce Park Drive
+,7-128,service_trip,22:30:00,23:15:00,198,112 Commerce Park Drive,1,Downtown Barrie Terminal
+,7-128,service_trip,23:15:00,23:30:00,1,Downtown Barrie Terminal,251,Rose Street
+,7-128,service_trip,23:30:00,23:43:00,251,Rose Street,1,Downtown Barrie Terminal
+,7-128,depot_pull_in,23:43:00,23:58:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,8-103,depot_pull_out,04:55:00,05:20:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,8-103,service_trip,05:20:00,06:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,service_trip,06:25:00,07:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,service_trip,07:50:00,08:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,service_trip,08:55:00,10:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,service_trip,10:20:00,11:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,service_trip,11:25:00,12:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,service_trip,12:50:00,13:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,service_trip,13:55:00,15:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,service_trip,15:20:00,16:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,service_trip,16:25:00,17:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,service_trip,17:50:00,18:51:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-103,depot_pull_in,18:51:00,19:06:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,8-106,depot_pull_out,05:25:00,05:41:00,99999,Depot - Welham Facility,777,Park Place
+,8-106,service_trip,05:41:00,06:20:00,777,Park Place,1,Downtown Barrie Terminal
+,8-106,service_trip,06:20:00,07:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,07:25:00,08:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,08:50:00,09:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,09:55:00,11:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,11:20:00,12:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,12:25:00,13:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,13:50:00,14:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,14:55:00,16:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,16:20:00,17:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,17:25:00,18:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,18:50:00,19:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,19:55:00,21:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,21:20:00,22:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,service_trip,22:25:00,23:47:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-106,depot_pull_in,23:47:00,24:02:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,8-115,depot_pull_out,05:25:00,05:50:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,8-115,service_trip,05:50:00,06:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,06:55:00,08:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,08:20:00,09:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,09:25:00,10:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,10:50:00,11:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,11:55:00,13:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,13:20:00,14:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,14:25:00,15:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,15:50:00,16:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,16:55:00,18:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,18:20:00,19:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,19:25:00,20:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,20:50:00,21:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,21:55:00,23:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,service_trip,23:20:00,24:21:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-115,depot_pull_in,24:21:00,24:36:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,8-117,depot_pull_out,05:25:00,05:50:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,8-117,service_trip,05:50:00,06:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,service_trip,06:55:00,08:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,service_trip,08:20:00,09:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,service_trip,09:25:00,10:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,service_trip,10:50:00,11:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,service_trip,11:55:00,13:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,service_trip,13:20:00,14:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,service_trip,14:25:00,15:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,service_trip,15:50:00,16:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,service_trip,16:55:00,18:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,service_trip,18:20:00,19:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-117,depot_pull_in,19:20:00,19:35:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,8-119,depot_pull_out,05:26:00,05:51:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,8-119,service_trip,05:51:00,07:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,07:20:00,08:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,08:25:00,09:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,09:50:00,10:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,10:55:00,12:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,12:20:00,13:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,13:25:00,14:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,14:50:00,15:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,15:55:00,17:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,17:20:00,18:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,18:25:00,19:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,19:50:00,20:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,20:55:00,22:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,22:20:00,23:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,service_trip,23:25:00,24:47:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-119,depot_pull_in,24:47:00,25:02:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,8-120,depot_pull_out,05:25:00,05:50:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,8-120,service_trip,05:50:00,07:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,service_trip,07:20:00,08:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,service_trip,08:25:00,09:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,service_trip,09:50:00,10:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,service_trip,10:55:00,12:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,service_trip,12:20:00,13:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,service_trip,13:25:00,14:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,service_trip,14:50:00,15:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,service_trip,15:55:00,17:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,service_trip,17:20:00,18:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,service_trip,18:25:00,19:49:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-120,depot_pull_in,19:50:00,20:05:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,8-125,depot_pull_out,05:55:00,06:11:00,99999,Depot - Welham Facility,777,Park Place
+,8-125,service_trip,06:11:00,06:50:00,777,Park Place,1,Downtown Barrie Terminal
+,8-125,service_trip,06:50:00,07:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,07:55:00,09:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,09:20:00,10:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,10:25:00,11:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,11:50:00,12:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,12:55:00,14:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,14:20:00,15:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,15:25:00,16:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,16:50:00,17:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,17:55:00,19:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,19:20:00,20:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,20:25:00,21:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,21:50:00,22:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,service_trip,22:55:00,24:19:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-125,depot_pull_in,24:19:00,24:34:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,8-130,depot_pull_out,05:55:00,06:20:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,8-130,service_trip,06:20:00,07:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-130,service_trip,07:25:00,08:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-130,service_trip,08:50:00,09:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-130,service_trip,09:55:00,11:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-130,service_trip,11:20:00,12:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-130,service_trip,12:25:00,13:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-130,service_trip,13:50:00,14:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-130,service_trip,14:55:00,16:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-130,service_trip,16:20:00,17:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-130,service_trip,17:25:00,18:47:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-130,depot_pull_in,18:47:00,19:02:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,8-131,depot_pull_out,05:55:00,06:20:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,8-131,service_trip,06:20:00,07:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,07:50:00,08:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,08:55:00,10:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,10:20:00,11:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,11:25:00,12:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,12:50:00,13:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,13:55:00,15:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,15:20:00,16:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,16:25:00,17:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,17:50:00,18:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,18:55:00,20:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,20:20:00,21:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,21:25:00,22:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,service_trip,22:50:00,23:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-131,depot_pull_in,23:50:00,24:05:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,8-137,depot_pull_out,06:25:00,06:50:00,99999,Depot - Welham Facility,1,Downtown Barrie Terminal
+,8-137,service_trip,06:50:00,07:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-137,service_trip,07:55:00,09:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-137,service_trip,09:20:00,10:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-137,service_trip,10:25:00,11:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-137,service_trip,11:50:00,12:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-137,service_trip,12:55:00,14:20:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-137,service_trip,14:20:00,15:25:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-137,service_trip,15:25:00,16:50:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-137,service_trip,16:50:00,17:55:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-137,service_trip,17:55:00,19:17:00,1,Downtown Barrie Terminal,1,Downtown Barrie Terminal
+,8-137,depot_pull_in,19:17:00,19:32:00,1,Downtown Barrie Terminal,99999,Depot - Welham Facility
+,90-901,depot_pull_out,05:12:00,05:30:00,99999,Depot - Welham Facility,732,Allandale Waterfront Station
+,90-901,service_trip,05:30:00,07:00:00,732,Allandale Waterfront Station,732,Allandale Waterfront Station
+,90-901,service_trip,07:00:00,08:26:00,732,Allandale Waterfront Station,732,Allandale Waterfront Station
+,90-901,depot_pull_in,08:26:00,08:34:00,732,Allandale Waterfront Station,99999,Depot - Welham Facility
+,90-901,depot_pull_out,14:12:00,14:20:00,99999,Depot - Welham Facility,732,Allandale Waterfront Station
+,90-901,service_trip,14:20:00,15:50:00,732,Allandale Waterfront Station,732,Allandale Waterfront Station
+,90-901,service_trip,15:50:00,18:00:00,732,Allandale Waterfront Station,732,Allandale Waterfront Station
+,90-901,service_trip,18:00:00,19:26:00,732,Allandale Waterfront Station,732,Allandale Waterfront Station
+,90-901,depot_pull_in,19:26:00,19:34:00,732,Allandale Waterfront Station,99999,Depot - Welham Facility
+,90-902,depot_pull_out,06:27:00,06:45:00,99999,Depot - Welham Facility,732,Allandale Waterfront Station
+,90-902,service_trip,06:45:00,08:15:00,732,Allandale Waterfront Station,732,Allandale Waterfront Station
+,90-902,service_trip,08:15:00,09:41:00,732,Allandale Waterfront Station,732,Allandale Waterfront Station
+,90-902,depot_pull_in,09:41:00,09:49:00,732,Allandale Waterfront Station,99999,Depot - Welham Facility
+,90-902,depot_pull_out,12:15:00,12:30:00,99999,Depot - Welham Facility,732,Allandale Waterfront Station
+,90-902,service_trip,12:30:00,14:00:00,732,Allandale Waterfront Station,732,Allandale Waterfront Station
+,90-902,service_trip,14:00:00,15:30:00,732,Allandale Waterfront Station,732,Allandale Waterfront Station
+,90-902,service_trip,15:30:00,16:56:00,732,Allandale Waterfront Station,732,Allandale Waterfront Station
+,90-902,depot_pull_in,16:56:00,17:04:00,732,Allandale Waterfront Station,99999,Depot - Welham Facility
